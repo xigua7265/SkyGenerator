@@ -1,0 +1,7 @@
+﻿name: SkyGenerator
+main: SkyGenerator\Loader
+version: 0.1.0
+api: 
+- 2.0.0
+- 3.0.0
+author: xigua7265 (xigua)
